@@ -6,6 +6,7 @@ This script was made for Server Hosting and by someone who hasn't touched python
 
 Dependencies:
 py7zr - pip install py7zr
+
 Open Command Prompt in Administrator and type it in.
 For linux, make sure you run it as sudo pip3 install py7zr.
 
